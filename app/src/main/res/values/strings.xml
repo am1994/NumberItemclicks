@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumberItemclicks</string>
+    <string name="roundimage">RoundImage</string>
+    <string name="nclicks">N°clicks</string>
+</resources>
